@@ -1,83 +1,68 @@
-Martin Gomez — Software Engineering Portfolio
+<div align="center">
+
+Hey, I'm Martin Gomez 👋
+
+Software Engineer · Computer Science @ UIC · Chicago, IL
+
+I build practical software for real people, businesses, and organizations.
 
 
 
 
-My personal portfolio showcasing the software, websites, games, and systems I have built while studying computer science at the University of Illinois Chicago.
 
-I enjoy turning real operational problems into practical software—from tools used by businesses and sports leagues to games and data-driven applications.
+</div>
 
-Featured projects
+About me
+
+🎓 Pursuing a B.S. in Computer Science at the University of Illinois Chicago, expected May 2028
+
+🛠️ Most interested in full-stack engineering, backend systems, AI integrations, and sports technology
+
+⚙️ I like finding operational problems and turning them into software that people can actually use
+
+📍 Based in the Chicago area and currently seeking Summer 2027 software engineering internships
+
+My perspective on software comes from both engineering and real operations experience. Whether I am building for a business, a baseball league, or a game community, I care about understanding the workflow first and creating something that genuinely improves it.
+
+Featured work
 
 Project
 
-Description
+What I built
 
-Technologies
+Stack
 
 GomezOps
 
-A multi-business social media operations platform with scheduling, content management, and reusable marketing tools.
+A multi-business platform for scheduling content, managing media, and running reusable social media workflows.
 
 React, TypeScript, FastAPI, Supabase
 
 Benito Juarez Men's League
 
-A full-stack baseball league platform for schedules, standings, statistics, and league administration, serving roughly 1,000 visitors per week.
+A full-stack baseball platform for schedules, standings, statistics, and league administration used by roughly 1,000 visitors per week.
 
 Full-stack web development
 
 Build a Wall!
 
-A published Roblox game featuring progression, upgrades, workers, rebirths, rewards, and persistent player data.
+A published Roblox game with progression, workers, upgrades, rebirths, daily rewards, and persistent player data.
 
 Roblox Studio, Luau
 
-EatThis
-
-A location-based food picker that helps users decide where to eat using nearby restaurant data.
-
-React, Vite, Google Places API, DuckDB
-
 Cookie Clicker
 
-A C++ game built with an object-oriented architecture, upgrade inheritance, UI systems, and persistent progression.
+An object-oriented C++ game with upgrade inheritance, UI systems, and persistent progression.
 
 C++, SFML
 
-AI Market Map
+<div align="center">
 
-An AI-assisted system for organizing and interpreting companies across the artificial-intelligence ecosystem.
+Explore all of my work →
 
-AI integration, data processing
+</div>
 
-What this portfolio represents
+Tech I work with
 
-Full-stack application development
+Languages
 
-Practical problem solving and product thinking
-
-API, database, and AI integrations
-
-Game systems and object-oriented programming
-
-Software built for real users, clients, and organizations
-
-Run locally
-
-From the project directory:
-
-npm install
-npm run dev
-
-Then open the local address shown in your terminal.
-
-Contact
-
-I am currently pursuing a B.S. in Computer Science at the University of Illinois Chicago and am interested in software engineering opportunities where I can build useful, scalable systems.
-
-Portfolio: martingomez.dev
-
-GitHub: github.com/Mgomez1023
-
-If you found one of these projects interesting, feel free to explore the code or connect with me.
