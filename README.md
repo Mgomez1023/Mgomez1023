@@ -4,9 +4,7 @@ Hey, I'm Martin Gomez 👋
 
 Software Engineer · Computer Science @ UIC · Chicago, IL
 
-I build practical software for real people, businesses, and organizations.
-
-
+I build software for real people, businesses, and organizations.
 
 
 
