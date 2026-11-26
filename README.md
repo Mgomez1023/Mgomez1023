@@ -20,6 +20,8 @@ About me
 
 📍 Based in the Chicago area and currently seeking Summer 2027 software engineering internships
 
+💻 I mostly build in C++, Python, React/Typecript, and SQL
+
 My perspective on software comes from both engineering and real operations experience. Whether I am building for a business, a baseball league, or a game community, I care about understanding the workflow first and creating something that genuinely improves it.
 
 
